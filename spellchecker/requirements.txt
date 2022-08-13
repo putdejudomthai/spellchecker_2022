@@ -1,0 +1,8 @@
+numpy
+torch
+numpy
+pandas
+pythainlp
+python-crfsuite
+deepcut
+attacut
